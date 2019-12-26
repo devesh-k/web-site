@@ -1,5 +1,3 @@
-# web-site
-This is really awesome.
+ALl this doesnt make sense.
 
-Adding details in the 'example' branch
-One more edit. This time from the web...
+Re-writing the merge conflict resolution from the merge tool.
