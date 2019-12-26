@@ -1,3 +1,3 @@
 ALl this doesnt make sense.
 
-Re-writing the merge conflict resolution from the merge tool.
+Updating the readme file from the rebase
